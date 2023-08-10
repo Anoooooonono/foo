@@ -29,6 +29,8 @@ ansible-playbook main.yml --ask-become-pass
     - Input methods
         - Change "... Previous input source" shortcut
             - CMD + SPACE
+    - "Modifier Keys"
+        - Caps Lock -> Control
 
 - "Trackpad Options" (Accessibility)
     - Use trackpad for dragging
