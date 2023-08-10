@@ -2,7 +2,7 @@
 xcode-select --install
 
 # PAY ATTENTION TO THE PYTHON VERSION
-export PATH="$HOME/Library/Python/3.9/bin:/opt/homebrew/bin:$PATH"
+export PATH="$HOME/Library/Python/3.11/bin:/opt/homebrew/bin:$PATH"
 
 sudo pip3 install --upgrade pip
 
