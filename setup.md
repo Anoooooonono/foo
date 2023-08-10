@@ -33,3 +33,9 @@ ansible-playbook main.yml --ask-become-pass
 - "Trackpad Options" (Accessibility)
     - Use trackpad for dragging
         - Three-Finger Drag
+
+**Chrome**
+
+- Password Manager
+    - "Offer to save password" - OFF
+    - "Auto Sign-in" - Off
