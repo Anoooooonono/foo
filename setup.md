@@ -13,6 +13,8 @@ ansible-galaxy install -r requirements.yml
 ansible-playbook main.yml --ask-become-pass
 ```
 
+---
+
 **Personal Preference Setup**
 
 - Add new input language
