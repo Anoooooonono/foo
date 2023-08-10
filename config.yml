@@ -52,14 +52,7 @@ dotfiles_files:
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - git
-  - github/gh/gh
-  - go
   - gpg
-  - sqlite
-  - node
-  - nvm
-  - ssh-copy-id
-  - readline
   - openssl
   - wget
 
@@ -77,6 +70,14 @@ homebrew_cask_apps:
   - visual-studio-code
   - telegram
   - warp # Terminal
+  - tower
+  - pdf-expert
+  - iina
+  - sf-symbols
+  - tableplus
+  - the-unarchiver
+  - transmit
+  - zoom
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
