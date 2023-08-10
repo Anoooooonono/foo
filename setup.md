@@ -40,7 +40,9 @@ ansible-playbook main.yml --ask-become-pass
 
 - Password Manager
     - "Offer to save password" - OFF
-    - "Auto Sign-in" - Off
+    - "Auto Sign-in" - OFF
+- Addresses and more
+    - "Save and fill addresses" - OFF
 
 **Moom**
 
