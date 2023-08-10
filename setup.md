@@ -43,6 +43,10 @@ ansible-playbook main.yml --ask-become-pass
 - Desktop & Dock
     - Automatically hide and show the Dock - ON
     - Show recent applications in Dock - OFF
+ 
+- Privacy & Security
+    - FileVault Turn On
+        - iCloud or Encryption Key
 
 **Chrome**
 
