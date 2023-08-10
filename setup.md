@@ -41,3 +41,12 @@ ansible-playbook main.yml --ask-become-pass
 - Password Manager
     - "Offer to save password" - OFF
     - "Auto Sign-in" - Off
+
+**Moom**
+
+```
+defaults import com.manytricks.Moom ~/Download/Moom.plist
+
+# Export the setting config
+defaults export com.manytricks.Moom ~/Download/Moom.plist
+```
