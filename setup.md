@@ -39,6 +39,10 @@ ansible-playbook main.yml --ask-become-pass
 - Notification
     - Disable lock screen notification
     - Disable application notifications
+ 
+- Desktop & Dock
+    - Automatically hide and show the Dock - ON
+    - Show recent applications in Dock - OFF
 
 **Chrome**
 
