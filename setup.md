@@ -15,7 +15,7 @@ ansible-playbook main.yml --ask-become-pass
 
 ---
 
-**Personal Preference Setup**
+**System Preference**
 
 - Add new input language
     - "Language input methods"
@@ -35,6 +35,10 @@ ansible-playbook main.yml --ask-become-pass
 - "Trackpad Options" (Accessibility)
     - Use trackpad for dragging
         - Three-Finger Drag
+     
+- Notification
+    - Disable lock screen notification
+    - Disable application notifications
 
 **Chrome**
 
