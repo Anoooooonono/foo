@@ -17,6 +17,9 @@ ansible-playbook main.yml --ask-become-pass
 
 **System Preference**
 
+- Language & Region
+    - Region - United States
+        - Other settings
 - Add new input language
     - "Language input methods"
         - Add new language
