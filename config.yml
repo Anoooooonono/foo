@@ -55,6 +55,8 @@ homebrew_installed_packages:
   - gpg
   - openssl
   - wget
+  - swiftformat
+  - swiftlint
 
 homebrew_taps:
   - homebrew/core
