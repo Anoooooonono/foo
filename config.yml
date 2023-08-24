@@ -56,6 +56,7 @@ homebrew_installed_packages:
   - openssl
   - wget
   - swiftformat
+  - lame # High quality MPEG Audio Layer III (MP3) encoder
 
 homebrew_taps:
   - homebrew/core
