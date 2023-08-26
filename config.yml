@@ -56,7 +56,9 @@ homebrew_installed_packages:
   - openssl
   - wget
   - swiftformat
-  - lame # High quality MPEG Audio Layer III (MP3) encoder
+  - lame   # High quality MPEG Audio Layer III (MP3) encoder
+  - ffmpeg # A complete, cross-platform solution to record, convert and stream audio and video
+  - yt-dlp # Youtube downloader
 
 homebrew_taps:
   - homebrew/core
